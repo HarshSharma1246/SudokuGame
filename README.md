@@ -9,7 +9,6 @@ Welcome to the Sudoku Solver project! This is a Java program that can solve a gi
 - [Algorithm](#algorithm)
 - [Choose Level of Hardness](#choose-level-of-hardness)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
